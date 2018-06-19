@@ -1,4 +1,8 @@
+.. note::
+    :class: sphx-glr-download-link-note
 
+    Click :ref:`here <sphx_glr_download_examples_ncss_NCSS_Cartopy_Example.py>` to download the full example code
+.. rst-class:: sphx-glr-example-title
 
 .. _sphx_glr_examples_ncss_NCSS_Cartopy_Example.py:
 
@@ -51,7 +55,9 @@ single dataset.
 
 .. rst-class:: sphx-glr-script-out
 
- Out::
+ Out:
+
+ .. code-block:: none
 
     ['Best GFS Quarter Degree Forecast Time Series']
 
@@ -127,7 +133,9 @@ the data).
 
 .. rst-class:: sphx-glr-script-out
 
- Out::
+ Out:
+
+ .. code-block:: none
 
     ['Temperature_surface', 'reftime1', 'time1', 'lat', 'lon']
 
@@ -216,18 +224,22 @@ Now we can plot these up using matplotlib and cartopy.
 
 
 .. image:: /examples/ncss/images/sphx_glr_NCSS_Cartopy_Example_001.png
-    :align: center
+    :class: sphx-glr-single-img
 
 
 
 
-**Total running time of the script:** ( 0 minutes  1.739 seconds)
+**Total running time of the script:** ( 0 minutes  1.661 seconds)
 
+
+.. _sphx_glr_download_examples_ncss_NCSS_Cartopy_Example.py:
 
 
 .. only :: html
 
  .. container:: sphx-glr-footer
+    :class: sphx-glr-footer-example
+
 
 
   .. container:: sphx-glr-download

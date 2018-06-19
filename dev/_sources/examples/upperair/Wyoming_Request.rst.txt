@@ -1,4 +1,8 @@
+.. note::
+    :class: sphx-glr-download-link-note
 
+    Click :ref:`here <sphx_glr_download_examples_upperair_Wyoming_Request.py>` to download the full example code
+.. rst-class:: sphx-glr-example-title
 
 .. _sphx_glr_examples_upperair_Wyoming_Request.py:
 
@@ -69,7 +73,9 @@ Inspect data columns in the dataframe.
 
 .. rst-class:: sphx-glr-script-out
 
- Out::
+ Out:
+
+ .. code-block:: none
 
     Index(['pressure', 'height', 'temperature', 'dewpoint', 'direction', 'speed',
            'u_wind', 'v_wind', 'station', 'station_number', 'time', 'latitude',
@@ -91,7 +97,9 @@ Pull out a specific column of data.
 
 .. rst-class:: sphx-glr-script-out
 
- Out::
+ Out:
+
+ .. code-block:: none
 
     0     1002.0
     1     1000.0
@@ -171,7 +179,9 @@ of the dataframe.
 
 .. rst-class:: sphx-glr-script-out
 
- Out::
+ Out:
+
+ .. code-block:: none
 
     {'pressure': 'hPa', 'height': 'meter', 'temperature': 'degC', 'dewpoint': 'degC', 'direction': 'degrees', 'speed': 'knot', 'u_wind': 'knot', 'v_wind': 'knot', 'station': None, 'station_number': None, 'time': None, 'latitude': 'degrees', 'longitude': 'degrees', 'elevation': 'meter'}
 
@@ -187,7 +197,9 @@ of the dataframe.
 
 .. rst-class:: sphx-glr-script-out
 
- Out::
+ Out:
+
+ .. code-block:: none
 
     hPa
 
@@ -209,13 +221,17 @@ Units can then be attached to the values from the dataframe.
 
 
 
-**Total running time of the script:** ( 0 minutes  1.378 seconds)
+**Total running time of the script:** ( 0 minutes  4.665 seconds)
 
+
+.. _sphx_glr_download_examples_upperair_Wyoming_Request.py:
 
 
 .. only :: html
 
  .. container:: sphx-glr-footer
+    :class: sphx-glr-footer-example
+
 
 
   .. container:: sphx-glr-download
